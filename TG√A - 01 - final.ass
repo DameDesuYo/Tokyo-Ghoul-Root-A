@@ -16,8 +16,7 @@ Video File: 01 [A810298F].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 145
-Active Line: 166
+Active Line: 42
 Video Position: 24876
 
 [V4+ Styles]
@@ -51,7 +50,7 @@ Dialogue: 0,0:03:20.58,0:03:23.70,Default,,0,0,0,,I won't leave! Please, let me 
 Dialogue: 0,0:03:23.70,0:03:26.62,Default,,0,0,0,,You're an asset that I can't afford to lose.
 Dialogue: 0,0:03:26.62,0:03:27.52,Default,,0,0,0,,Go!
 Dialogue: 0,0:03:29.77,0:03:31.39,Default,,0,0,0,,I'm… staying.
-Dialogue: 0,0:03:36.76,0:03:38.74,Default,,0,0,0,,Just don't get in our way
+Dialogue: 0,0:03:36.76,0:03:38.74,Default,,0,0,0,,Just don't get in our way.
 Dialogue: 0,0:03:38.74,0:03:40.01,Default,,0,0,0,,Right!
 Dialogue: 0,0:03:40.01,0:03:42.09,Default,,0,0,0,,Hirako, I'm sorry.
 Dialogue: 0,0:03:42.09,0:03:44.53,Default,,0,0,0,,I know the score. So then,
@@ -74,7 +73,7 @@ Dialogue: 0,0:05:26.70,0:05:28.43,Default,,0,0,0,,Un! Deux!
 Dialogue: 0,0:05:28.43,0:05:30.30,Default,,0,0,0,,Trois! Quatre! Cinq!
 Dialogue: 0,0:05:30.30,0:05:32.93,Default,,0,0,0,,Six! Sept! Huit! Neuf!
 Dialogue: 0,0:05:32.93,0:05:33.98,Default,,0,0,0,,And ten!
-Dialogue: 0,0:05:36.47,0:05:39.27,Default,,0,0,0,,Hmm? Not much resistance here, is there?
+Dialogue: 0,0:05:36.47,0:05:39.27,Default,,0,0,0,,Not much resistance here, is there?
 Dialogue: 0,0:05:39.62,0:05:42.36,Default,,0,0,0,,Uta, hold him there!
 Dialogue: 0,0:05:44.15,0:05:45.90,Default,,0,0,0,,Dolce.
 Dialogue: 0,0:05:54.54,0:05:57.79,Default,,0,0,0,,If he's still standing even after that beating,
@@ -196,7 +195,7 @@ Dialogue: 0,0:16:56.17,0:16:59.49,Default,,0,0,0,,so I thought it was high time\
 Dialogue: 0,0:17:02.59,0:17:05.75,Default,,0,0,0,,Clowns always get the last laugh in.
 Dialogue: 0,0:17:07.81,0:17:08.92,Default,,0,0,0,,Right?
 Dialogue: 0,0:17:10.63,0:17:11.92,Default,,0,0,0,,Iwa...
-Dialogue: 0,0:17:12.28,0:17:14.65,Default,,0,0,0,,Mm-hmm. You've come around, have you?
+Dialogue: 0,0:17:12.28,0:17:14.65,Default,,0,0,0,,You've come around, have you?
 Dialogue: 0,0:17:14.65,0:17:16.60,Default,,0,0,0,,This was a trap, wasn't it?
 Dialogue: 0,0:17:16.60,0:17:17.80,Default,,0,0,0,,Seems so.
 Dialogue: 0,0:17:18.69,0:17:19.55,Default,,0,0,0,,Damn.
