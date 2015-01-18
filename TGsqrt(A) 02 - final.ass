@@ -17,8 +17,8 @@ Video File: 02 [DBB689E4].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 30
-Active Line: 50
+Scroll Position: 104
+Active Line: 145
 Video Position: 32331
 
 [V4+ Styles]
@@ -178,12 +178,12 @@ Dialogue: 0,0:12:09.14,0:12:10.05,Default,,0,0,0,,Hey.
 Dialogue: 0,0:12:11.46,0:12:15.50,Default,,0,0,0,,Do you have business with my father, Amon Koutarou?
 Dialogue: 0,0:12:31.83,0:12:32.85,Default,,0,0,0,,Who are you?
 Dialogue: 0,0:12:34.01,0:12:37.26,Default,,0,0,0,,Oh, I guess you haven't heard yet.
-Dialogue: 0,0:12:40.82,0:12:43.23,Default,,0,0,0,,As of today, I'm your new partner,
+Dialogue: 0,0:12:40.82,0:12:43.23,Default,,0,0,0,,From now on. I'll be your new partner,
 Dialogue: 0,0:12:43.23,0:12:45.31,Default,,0,0,0,,2nd Grade Investigator, Mado Akira.
 Dialogue: 0,0:12:46.24,0:12:47.15,Default,,0,0,0,,Mado?
 Dialogue: 0,0:12:48.32,0:12:52.22,Default,,0,0,0,,Nice to meet you, Senior Investigator Amon.
 Dialogue: 0,0:12:54.65,0:12:57.87,Default,,0,0,0,,Investigator 2nd Grade, Mado Akira.
-Dialogue: 0,0:12:58.44,0:13:00.50,Default,,0,0,0,,I'll be joining the 20th Ward Branch as of today.
+Dialogue: 0,0:12:58.44,0:13:00.50,Default,,0,0,0,,I'll be joining the 20th Ward Branch.
 Dialogue: 0,0:13:00.81,0:13:02.62,Default,,0,0,0,,I look forward to working with you.
 Dialogue: 0,0:13:03.16,0:13:05.78,Default,,0,0,0,,Akira, I'm going to have you partner with Amon.
 Dialogue: 0,0:13:06.13,0:13:06.93,Default,,0,0,0,,Yes, sir.
@@ -204,7 +204,7 @@ Dialogue: 0,0:13:58.04,0:14:00.69,Default,,0,0,0,,If the Eyepatch is a member of
 Dialogue: 0,0:14:00.69,0:14:04.86,Default,,0,0,0,,it's also possible that the binge eater and the Gourmet are members too, right?
 Dialogue: 0,0:14:04.86,0:14:06.65,Default,,0,0,0,,Nope, I don't think so.
 Dialogue: 0,0:14:07.80,0:14:09.11,Default,,0,0,0,,For what reason?
-Dialogue: 0,0:14:09.11,0:14:12.45,Default,,0,0,0,,Is it your, "intuition" like always, Investigator Mado?
+Dialogue: 0,0:14:09.11,0:14:12.45,Default,,0,0,0,,Is it your "intuition," like always, Investigator Mado?
 Dialogue: 0,0:14:13.75,0:14:18.96,Default,,0,0,0,,Call it what you want, but I'd appreciate it if you would listen, Investigator Takizawa.
 Dialogue: 0,0:14:20.02,0:14:25.56,Default,,0,0,0,,Looking at the 20th Ward's predatory attack data, there are a few things in particular that stand out.
 Dialogue: 0,0:14:26.31,0:14:30.97,Default,,0,0,0,,Regarding the binge eater, there've been no reports of predation in over six months.
@@ -249,7 +249,7 @@ Dialogue: 0,0:16:55.14,0:16:58.19,Default,,0,0,0,,I like to avoid as much wastef
 Dialogue: 0,0:16:58.19,0:17:00.62,Default,,0,0,0,,Speaking politely consumes more time and energy.
 Dialogue: 0,0:17:00.62,0:17:01.70,Default,,0,0,0,,What?
 Dialogue: 0,0:17:01.70,0:17:05.02,Default,,0,0,0,,As partners, I'm sure we'll be speaking to each other often.
-Dialogue: 0,0:17:05.02,0:17:10.44,Default,,0,0,0,,For example, adding "please" and "thank you" add extra time.
+Dialogue: 0,0:17:05.02,0:17:10.44,Default,,0,0,0,,For example, using "please" and "thank you" adds extra time.
 Dialogue: 0,0:17:10.44,0:17:12.87,Default,,0,0,0,,Cumulatively, these phrases add a 0.6 second difference.
 Dialogue: 0,0:17:12.87,0:17:15.97,Default,,0,0,0,,If I were to ask you for something ten times per day,
 Dialogue: 0,0:17:15.97,0:17:19.44,Default,,0,0,0,,it could use up to two thousand seconds over the course of a year.
