@@ -16,8 +16,8 @@ Video File: 04 [134C5FEB].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.125000
-Scroll Position: 245
-Active Line: 264
+Scroll Position: 136
+Active Line: 158
 Video Position: 34572
 
 [V4+ Styles]
@@ -191,7 +191,7 @@ Dialogue: 20,0:19:05.14,0:19:10.17,Default,,0,0,0,,So no one would object to a l
 Dialogue: 20,0:19:37.98,0:19:40.95,Default,,0,0,0,,{\i1}There's something about you...
 Dialogue: 20,0:19:45.28,0:19:48.35,Default,,0,0,0,,Phew, you're not bad.
 Dialogue: 20,0:19:54.53,0:19:56.71,Default,,0,0,0,,I guess I'll have to use my Arata.
-Dialogue: 20,0:20:07.33,0:20:12.44,Default,,0,0,0,,{\i1}Oh, I get it. So that's where you where hiding...
+Dialogue: 20,0:20:07.33,0:20:12.44,Default,,0,0,0,,{\i1}Oh, I get it. So that's where you were hiding...
 Dialogue: 20,0:20:16.41,0:20:18.57,Default,,0,0,0,,{\i1}my good-for-nothing father!
 Dialogue: 20,0:21:09.64,0:21:13.12,Default,,0,0,0,,Get down and stay down!
 Dialogue: 20,0:21:47.08,0:21:50.20,Default,,0,0,0,,Would you like to see Rize-san again, Kamishiro-san?

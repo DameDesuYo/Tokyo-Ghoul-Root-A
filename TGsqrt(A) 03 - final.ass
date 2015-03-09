@@ -17,8 +17,8 @@ Video File: 03 [335FEB6E].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.125000
-Scroll Position: 90
-Active Line: 122
+Scroll Position: 222
+Active Line: 285
 Video Position: 27502
 
 [V4+ Styles]
@@ -319,7 +319,7 @@ Dialogue: 0,0:20:57.06,0:21:00.03,Default,,0,0,0,,He's mine!
 Dialogue: 0,0:21:01.26,0:21:03.24,Default,,0,0,0,,Sick bastard.
 Dialogue: 0,0:21:03.66,0:21:04.45,Default,,0,0,0,,Damn it!
 Dialogue: 0,0:21:04.73,0:21:07.41,Default,,0,0,0,,Why don't you tell us more about it...
-Dialogue: 0,0:21:08.37,0:21:10.24,Default,,0,0,0,,La foule? {?}
+Dialogue: 0,0:21:08.37,0:21:10.24,Default,,0,0,0,,La folle? {?}
 Dialogue: 0,0:21:11.48,0:21:15.96,Default,,0,0,0,,Something had been bothering me, \Nso we drew up this report.
 Dialogue: 0,0:21:16.59,0:21:21.28,Default,,0,0,0,,Right. We've been investigating the time surrounding the eyepatched ghoul's first appearance
 Dialogue: 0,0:21:21.28,0:21:23.92,Default,,0,0,0,,and we ran into a troubling possibility.
