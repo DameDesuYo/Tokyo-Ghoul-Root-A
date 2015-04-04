@@ -11,14 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: 10 [AC0FE31A].mkv
-Video File: 10 [AC0FE31A].mkv
+Audio File: E:/encoding/DDY/2014-Winter/Tokyo Ghoul/10/10 [AC0FE31A].mkv
+Video File: E:/encoding/DDY/2014-Winter/Tokyo Ghoul/10/10 [AC0FE31A].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.250000
-Scroll Position: 96
-Active Line: 104
-Video Position: 19213
+Scroll Position: 8
+Active Line: 9
+Video Position: 4084
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -42,7 +42,7 @@ Dialogue: 0,0:02:26.30,0:02:27.54,Default,,0,0,0,,Misato!
 Dialogue: 0,0:02:34.40,0:02:37.15,Default,,0,0,0,,Takizawa! It's too early for you to go down!
 Dialogue: 0,0:02:37.15,0:02:40.76,Default,,0,0,0,,Shut up! I'm just warming up!
 Dialogue: 0,0:02:45.41,0:02:48.14,Default,,0,0,0,,I won't let myself get in the way.
-Dialogue: 0,0:02:50.33,0:02:51.31,Default,,0,0,0,,Iwa-cho!
+Dialogue: 0,0:02:50.33,0:02:51.31,Default,,0,0,0,,Iwacho!
 Dialogue: 0,0:03:01.69,0:03:02.61,Default,,0,0,0,,Houji!
 Dialogue: 0,0:03:02.61,0:03:03.78,Default,,0,0,0,,Shinohara-san!
 Dialogue: 0,0:03:09.62,0:03:14.96,Default,,0,0,0,,His firepower may be a five, \Nbut his regeneration must be an eight.
@@ -82,7 +82,7 @@ Dialogue: 0,0:06:26.30,0:06:29.65,Default,,0,0,0,,shall we move on to the finale
 Dialogue: 0,0:06:31.81,0:06:33.76,Default,,0,0,0,,My angel!
 Dialogue: 0,0:06:50.31,0:06:55.01,Default,,0,0,0,,I wish... I could have gotten a second cup of coffee...
 Dialogue: 0,0:07:01.65,0:07:06.03,Default,,0,0,0,,{\i1}I realize that the decisions I've made up \Nuntil now weren't always the best...
-Dialogue: 0,0:07:08.38,0:07:12.03,Default,,0,0,0,,{\i1}Whether I was right or wrong 
+Dialogue: 0,0:07:08.38,0:07:12.03,Default,,0,0,0,,{\i1}Whether I was right or wrong
 Dialogue: 0,0:07:12.03,0:07:15.66,Default,,0,0,0,,{\i1}may not have even mattered in the first place.
 Dialogue: 0,0:07:17.60,0:07:21.87,Default,,0,0,0,,{\i1}But facing my sins like this…
 Dialogue: 0,0:07:23.72,0:07:26.44,Default,,0,0,0,,{\i1}And reflecting on all the choices I've made in life…
@@ -160,7 +160,7 @@ Dialogue: 0,0:15:06.41,0:15:07.30,Default,,0,0,0,,Juuzou!
 Dialogue: 0,0:15:07.30,0:15:10.05,Default,,0,0,0,,Throw me back, just like this!
 Dialogue: 0,0:15:52.44,0:15:57.10,Default,,0,0,0,,I can't stand not being able... to do anything any more.
 Dialogue: 0,0:16:07.49,0:16:11.26,Default,,0,0,0,,School? Why should I?
-Dialogue: 0,0:16:11.78,0:16:13.24,Default,,0,0,0,,Iwa!
+Dialogue: 0,0:16:11.78,0:16:13.24,Default,,0,0,0,,Iwacho!
 Dialogue: 0,0:16:20.85,0:16:24.63,Default,,0,0,0,,I'm not... cut out for this kind of work.
 Dialogue: 0,0:16:25.03,0:16:26.04,Default,,0,0,0,,Houji!
 Dialogue: 0,0:16:32.66,0:16:36.20,Default,,0,0,0,,{\fad(0,680)}Are you trying to start something with me, \Neven knowing I'm the Devil Ape?

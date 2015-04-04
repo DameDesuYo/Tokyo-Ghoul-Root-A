@@ -11,14 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: 12 [8F77919B].mkv
-Video File: 12 [8F77919B].mkv
+Audio File: E:/encoding/DDY/2014-Winter/Tokyo Ghoul/12/12 [8F77919B].mkv
+Video File: E:/encoding/DDY/2014-Winter/Tokyo Ghoul/12/12 [8F77919B].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.125000
-Scroll Position: 9239
-Active Line: 9240
-Video Position: 27323
+Scroll Position: 57
+Active Line: 75
+Video Position: 16423
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -46,7 +46,7 @@ Dialogue: 0,0:01:01.54,0:01:04.56,Default,,0,0,0,,Come on, just tell me already!
 Dialogue: 0,0:01:05.29,0:01:06.42,Default,,0,0,0,,Oh? It's gotta be her, right?
 Dialogue: 0,0:01:18.71,0:01:21.01,Default,,0,0,0,,Touka-chan...
 Dialogue: 0,0:01:35.39,0:01:36.65,Default,,0,0,0,,Hide!
-Dialogue: 0,0:02:11.24,0:02:16.04,Default,,0,0,0,,Coffee is surpringly hard to make, isn't it?
+Dialogue: 0,0:02:11.24,0:02:16.04,Default,,0,0,0,,Coffee is surprisingly hard to make, isn't it?
 Dialogue: 0,0:02:26.02,0:02:28.01,Default,,0,0,0,,Yo, Kaneki.
 Dialogue: 0,0:02:30.99,0:02:32.34,Default,,0,0,0,,Hide...
 Dialogue: 0,0:02:54.32,0:02:55.61,Default,,0,0,0,,Kaneki.
